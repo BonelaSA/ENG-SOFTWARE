@@ -1,21 +1,40 @@
-# ENG-SOFTWARE
-ENG SOFTWARE
+# Projeto HQ — Engenharia de Software
 
-# Componentes
-Adriano Bonela Sarti
-Edgar Almeida Depolo
-José Amâncio de Jesus Souza
-Rafael Silva dos Santos
+História em quadrinhos sobre o uso de IA na educação, desenvolvida com Scrum e Kanban na disciplina de Engenharia de Software.
 
-# Objetivos
-Elaborar um projeto criativo aplicando métodos ágeis (SCRUM e Kanban)
-Fomentar a colaboração entre alunos
-Utilizar de IA generativa para auxiliar na criação de conteúdo e arte.
-Estruturar o desenvolvimento do projeto em Sprints de 10 semanas
-Utilizar od GITHUB Projects para controle do desenvolvimento
+## Grupo
 
-# Descrição
-Desenvolver um projeto de uma história em quadrinhos, com roteiros e identidade visual completo. Nesse sentido, será criado uma HQ demonstrando o uso de IA para a contribução na educação. Com isso, foram elaborados 3 personagens, sendo 1 aluno, 1 professor e uma ferramenta de IA. Será ambientado uma sala de aula convencional, e os benefícios do uso de IA para o aluno, com auxilio do professor.
+Grupo D: O Copiloto da Educação
 
-# Localização
-Todas as etapas de desenvolvimento do trabalho estará centralizado no GITHUB, sendo utilizados os Issues e o Projects para elaboração e acompanhamento dos sprints e também do KANBAN.
+## Componentes
+
+- Adriano Bonela Sarti
+- Edgar Almeida Depolo
+- José Amâncio de Jesus Souza
+- Rafael Silva dos Santos
+
+## Objetivos
+
+- Elaborar um projeto criativo aplicando métodos ágeis (Scrum e Kanban)
+- Fomentar a colaboração entre os alunos
+- Utilizar IA generativa para auxiliar na criação de conteúdo e arte
+- Estruturar o desenvolvimento em sprints de 1 semana, ao longo de 10 semanas
+- Utilizar o GitHub Projects para controlar o desenvolvimento
+
+## Descrição
+
+O projeto consiste em desenvolver uma história em quadrinhos (HQ) com roteiro e identidade visual completos. A HQ vai mostrar como a IA pode contribuir para a educação e conta com três personagens: um aluno, um professor e uma ferramenta de IA. A história se passa em uma sala de aula convencional e apresenta os benefícios do uso da IA para o aluno, com o auxílio do professor.
+
+## Gestão do projeto
+
+Todo o desenvolvimento está centralizado no GitHub: as Issues formam o Product Backlog e o GitHub Projects é usado para planejar e acompanhar os sprints no quadro Kanban.
+
+- [Quadro Kanban (GitHub Projects)](https://github.com/users/BonelaSA/projects/2)
+- [Product Backlog](https://github.com/BonelaSA/ENG-SOFTWARE/issues)
+- [Sprint Backlog – Sprint 1](https://github.com/BonelaSA/ENG-SOFTWARE/issues?q=is%3Aissue+label%3Asprint-1)
+
+## Sprint 1 — 1 semana (10/10 a 17/10)
+
+**Sprint Planning:** realizada em 09/10.
+
+**Meta do sprint:** estruturar o repositório e o quadro e fechar a base do ato um: roteiro das páginas 1 e 2 e visual do protagonista e do coadjuvante.
