@@ -16,3 +16,6 @@ Utilizar od GITHUB Projects para controle do desenvolvimento
 
 # Descrição
 Desenvolver um projeto de uma história em quadrinhos, com roteiros e identidade visual completo. Nesse sentido, será criado uma HQ demonstrando o uso de IA para a contribução na educação. Com isso, foram elaborados 3 personagens, sendo 1 aluno, 1 professor e uma ferramenta de IA. Será ambientado uma sala de aula convencional, e os benefícios do uso de IA para o aluno, com auxilio do professor.
+
+# Localização
+Todas as etapas de desenvolvimento do trabalho estará centralizado no GITHUB, sendo utilizados os Issues e o Projects para elaboração e acompanhamento dos sprints e também do KANBAN.
