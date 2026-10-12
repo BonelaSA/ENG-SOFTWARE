@@ -34,7 +34,7 @@ Todo o desenvolvimento está centralizado no GitHub: as Issues formam o Product 
 - [Product Backlog](https://github.com/BonelaSA/ENG-SOFTWARE/issues)
 - [Sprint Backlog – Sprint 1](https://github.com/BonelaSA/ENG-SOFTWARE/issues?q=is%3Aissue+label%3Asprint-1)
 
-## Sprint 1 — 1 semana (10/10 a 17/10)
+## Sprint 1 — 1 semana (06/10 a 12/10)
 
 **Sprint Planning:** realizada em 09/10.
 
