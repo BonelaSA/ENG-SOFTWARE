@@ -12,6 +12,7 @@ Grupo D: O Copiloto da Educação
 - Edgar Almeida Depolo
 - José Amâncio de Jesus Souza
 - Rafael Silva dos Santos
+- Anderson Belmiro dos Santos
 
 ## Objetivos
 
